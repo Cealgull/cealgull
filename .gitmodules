@@ -1,0 +1,12 @@
+[submodule "FinalRelease/cealgull.app"]
+	path = FinalRelease/cealgull.app
+	url = git@github.com:Cealgull/cealgull.app.git
+[submodule "FinalRelease/Middleware"]
+	path = FinalRelease/Middleware
+	url = git@github.com:Cealgull/Middleware.git
+[submodule "FinalRelease/ChainCodes"]
+	path = FinalRelease/ChainCodes
+	url = git@github.com:Cealgull/ChainCodes.git
+[submodule "FinalRelease/Verify"]
+	path = FinalRelease/Verify
+	url = git@github.com:Cealgull/Verify.git
